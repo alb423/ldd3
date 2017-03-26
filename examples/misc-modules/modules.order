@@ -1,0 +1,4 @@
+kernel//home/albert/test/driver/examples/misc-modules/hello.ko
+kernel//home/albert/test/driver/examples/misc-modules/hellop.ko
+kernel//home/albert/test/driver/examples/misc-modules/sleepy.ko
+kernel//home/albert/test/driver/examples/misc-modules/complete.ko
